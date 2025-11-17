@@ -1,0 +1,37 @@
+body {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.one {
+  background: pink;
+  font-size: larger;
+  font-style:italic;
+  font-weight: bolder;
+  border: 3px   solid blue;
+  width: 200px;
+  padding: 32px;
+  margin: 48px;
+}
+
+.two {
+  background: lightblue;
+  font-size: larger;
+  font-style: oblique;
+  font-weight: bolder;
+  border: 3px solid purple;
+  width: 200px;
+  padding: 32px;
+  margin: 48px;
+}
+
+.three {
+  background: peachpuff;
+  font-size: larger;
+  font-style: italic;
+  font-weight: bolder;
+  border: 3px solid brown;
+  width: 200px;
+  padding: 32px;
+  margin: 48px;
+}
